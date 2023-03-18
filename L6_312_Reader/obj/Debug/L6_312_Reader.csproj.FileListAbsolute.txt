@@ -1,0 +1,12 @@
+D:\User\unic\Software\L6_312\L6_312_Reader\bin\Debug\L6_312_Reader.exe.config
+D:\User\unic\Software\L6_312\L6_312_Reader\bin\Debug\L6_312_Reader.exe
+D:\User\unic\Software\L6_312\L6_312_Reader\bin\Debug\L6_312_Reader.pdb
+D:\User\unic\Software\L6_312\L6_312_Reader\obj\Debug\L6_312_Reader.csproj.AssemblyReference.cache
+D:\User\unic\Software\L6_312\L6_312_Reader\obj\Debug\L6_312_Reader.csproj.SuggestedBindingRedirects.cache
+D:\User\unic\Software\L6_312\L6_312_Reader\obj\Debug\L6_312_Reader.csproj.CoreCompileInputs.cache
+D:\User\unic\Software\L6_312\L6_312_Reader\obj\Debug\L6_312_Reader.exe
+D:\User\unic\Software\L6_312\L6_312_Reader\obj\Debug\L6_312_Reader.pdb
+D:\User\unic\Software\L6_312\L6_312_Reader\bin\Debug\L6_312.exe
+D:\User\unic\Software\L6_312\L6_312_Reader\bin\Debug\L6_312.pdb
+D:\User\unic\Software\L6_312\L6_312_Reader\bin\Debug\L6_312.exe.config
+D:\User\unic\Software\L6_312\L6_312_Reader\obj\Debug\L6_312_Reader.csproj.CopyComplete

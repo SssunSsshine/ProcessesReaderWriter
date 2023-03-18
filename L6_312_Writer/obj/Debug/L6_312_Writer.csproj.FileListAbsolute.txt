@@ -1,0 +1,12 @@
+D:\User\unic\Software\L6_312\L6_312_Writer\bin\Debug\L6_312_Writer.exe.config
+D:\User\unic\Software\L6_312\L6_312_Writer\bin\Debug\L6_312_Writer.exe
+D:\User\unic\Software\L6_312\L6_312_Writer\bin\Debug\L6_312_Writer.pdb
+D:\User\unic\Software\L6_312\L6_312_Writer\obj\Debug\L6_312_Writer.csproj.AssemblyReference.cache
+D:\User\unic\Software\L6_312\L6_312_Writer\obj\Debug\L6_312_Writer.csproj.SuggestedBindingRedirects.cache
+D:\User\unic\Software\L6_312\L6_312_Writer\obj\Debug\L6_312_Writer.csproj.CoreCompileInputs.cache
+D:\User\unic\Software\L6_312\L6_312_Writer\obj\Debug\L6_312_Writer.exe
+D:\User\unic\Software\L6_312\L6_312_Writer\obj\Debug\L6_312_Writer.pdb
+D:\User\unic\Software\L6_312\L6_312_Writer\bin\Debug\L6_312.exe
+D:\User\unic\Software\L6_312\L6_312_Writer\bin\Debug\L6_312.pdb
+D:\User\unic\Software\L6_312\L6_312_Writer\bin\Debug\L6_312.exe.config
+D:\User\unic\Software\L6_312\L6_312_Writer\obj\Debug\L6_312_Writer.csproj.CopyComplete

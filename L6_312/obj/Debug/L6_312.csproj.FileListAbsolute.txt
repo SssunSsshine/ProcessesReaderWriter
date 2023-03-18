@@ -1,0 +1,8 @@
+D:\User\unic\Software\L6_312\L6_312\bin\Debug\L6_312.exe.config
+D:\User\unic\Software\L6_312\L6_312\bin\Debug\L6_312.exe
+D:\User\unic\Software\L6_312\L6_312\bin\Debug\L6_312.pdb
+D:\User\unic\Software\L6_312\L6_312\obj\Debug\L6_312.csproj.AssemblyReference.cache
+D:\User\unic\Software\L6_312\L6_312\obj\Debug\L6_312.csproj.SuggestedBindingRedirects.cache
+D:\User\unic\Software\L6_312\L6_312\obj\Debug\L6_312.csproj.CoreCompileInputs.cache
+D:\User\unic\Software\L6_312\L6_312\obj\Debug\L6_312.exe
+D:\User\unic\Software\L6_312\L6_312\obj\Debug\L6_312.pdb
